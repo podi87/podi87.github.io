@@ -11,17 +11,17 @@ main {
 }
 
 main h1 {
-  font-family:  "SW", sans-serif;
+  font-family:  "SW1", sans-serif;
   padding-left: 15px
 }
 
 @font-face {
-  font-family: 'SW';
+  font-family: "SW";
   src: url(./fonts/starjhol.ttf);
 }
 
 @font-face {
-  font-family: 'SW1';
+  font-family: "SW1";
   src: url(./fonts/starjedi.ttf);
 }
 
@@ -80,7 +80,7 @@ main h1 {
 
 main span:hover {
   color: red;
-  font-family: 'SW1', sans-serif;
+  font-family: "SW1";
 }
 
 pre {
