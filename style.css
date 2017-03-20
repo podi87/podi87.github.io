@@ -11,7 +11,7 @@ main {
 }
 
 main h1 {
-  font-family:  "SW1";
+  font-family:  'SW1';
   padding-left: 15px
 }
 
@@ -80,7 +80,7 @@ main h1 {
 
 main span:hover {
   color: red;
-  font-family: "SW1", 'Libre Franklin';
+  font-family: 'SW1', 'Libre Franklin';
 }
 
 pre {
