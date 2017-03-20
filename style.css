@@ -17,12 +17,12 @@ main h1 {
 
 @font-face {
   font-family: "SW";
-  src: url('fonts/starjhol.ttf');
+  src: url(./fonts/starjhol.ttf);
 }
 
 @font-face {
   font-family: "SW1";
-  src: url('fonts/starjedi.ttf');
+  src: url(./fonts/starjedi.ttf);
 }
 
 .profile {
