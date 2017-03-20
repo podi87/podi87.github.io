@@ -16,12 +16,12 @@ main h1 {
 }
 
 @font-face {
-  font-family: "SW", 'Libre Franklin';
+  font-family: 'SW';
   src: url(./fonts/starjhol.ttf);
 }
 
 @font-face {
-  font-family: 'SW1', 'Libre Franklin';
+  font-family: 'SW1';
   src: url(./fonts/starjedi.ttf);
 }
 
